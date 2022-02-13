@@ -16,4 +16,8 @@ Have some look on my project
 
 ![image](https://user-images.githubusercontent.com/59330701/153747091-b806fe02-027b-45c8-959b-63ee181ac4c3.png)
 
-To get the Project file copy. Please ping me in my email address:- niharzutshi12@yahoo.com
+
+Visit the Excel File to know more about the project
+https://docs.google.com/spreadsheets/d/1Vk8PVqCYfpylggaDxMNTypR0E4MVnv4U/edit?usp=sharing&ouid=103286139675106064151&rtpof=true&sd=true
+
+If there is any feedback or improve. Please ping me in my email address:- niharzutshi12@yahoo.com
