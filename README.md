@@ -1,6 +1,6 @@
 # Stake_Capital_Analytics_Project
 
-In this project you can calcualte your Monthly Income, Health Insurance, Emergency Fund, Mutual Fund/Stocks, NPS Balance in Hand
+In this project you can calcualte your monthly/Annually Income, Health Insurance, Emergency Fund, Mutual Fund/Stocks, NPS Balance in Hand
 And lot of mroe thing to know in this project.
 
 Have some look on my project
